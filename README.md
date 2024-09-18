@@ -3,12 +3,13 @@
 * [FlareVM](https://github.com/mandiant/flare-vm)
 * [REMnux](https://docs.remnux.org/)
 
+![image](https://github.com/user-attachments/assets/159fea57-de0d-41b0-ba91-2075b770f24d)
+
 # Requirements
 * Packer
 * Ssh
 * Vagrant
 * Virtualbox
-Tested on Arch linux.
 
 # Virtualbox
 ## Build Blackarch
