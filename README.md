@@ -1,9 +1,10 @@
+![image](https://github.com/user-attachments/assets/159fea57-de0d-41b0-ba91-2075b770f24d)
+
 # Available OS
 * [Blackarch](https://www.blackarch.org/index.html)
 * [FlareVM](https://github.com/mandiant/flare-vm)
 * [REMnux](https://docs.remnux.org/)
 
-![image](https://github.com/user-attachments/assets/159fea57-de0d-41b0-ba91-2075b770f24d)
 
 # Requirements
 * Packer
@@ -50,6 +51,7 @@ Default ssh_timeout is 5m.
 
 # Credits
 * [Baune8D](https://github.com/Baune8D/packer-windows-desktop/tree/main)
+* [Logo](https://www.terranovasecurity.com/fr/solutions/sensibilisation-cybersecurite/quest-ce-quun-logiciel-malveillant)
 
 # To-Do
 - [x] Blackarch Support
